@@ -7,11 +7,11 @@ PROXY_HOST = '127.0.0.1'  # Proxy server IP address
 PROXY_PORT = 8888  # Proxy server port
 
 # SSH server settings
-SSH_HOST = 'ssh.example.com'  # SSH server IP address or hostname
+SSH_HOST = 'raspi1.fritz.box'  # SSH server IP address or hostname
 SSH_PORT = 22  # SSH server port
 
 # HTTPS server settings
-HTTPS_HOST = 'example.com'  # HTTPS server IP address or hostname
+HTTPS_HOST = 'raspi1.fritz.box'  # HTTPS server IP address or hostname
 HTTPS_PORT = 443  # HTTPS server port
 
 # Function to handle SSH client connections
